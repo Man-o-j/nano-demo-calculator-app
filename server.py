@@ -6,7 +6,6 @@ class Result:
     result: int
 
 from flask import Flask
-
 app = Flask(__name__)
 
 
